@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Energy Color Scheme",
+		"Git",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rails Latest Migration",
+		"Rails Partial",
+		"RailsBase16 Color Schemes",
+		"RuboCop",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-bootlint",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-ruby",
+		"SublimeLinter-shellcheck",
+		"SublimeLinter-slim-lint",
+		"Theme - Gravity",
+		"Theme - Spacegray",
+		"ToggleQuotes"
+	]
+}
